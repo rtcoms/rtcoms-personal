@@ -64,7 +64,9 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline; }
+	vertical-align: baseline;
+  font-family : Ccl;
+  }
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block}
 body {
@@ -1956,11 +1958,15 @@ input.weather-search-submit{
     color: #FFF;
     text-shadow: 0 2px 1px #000;
     margin-bottom: 10px;
+    font-family : Ccl;
+    font-size: xx-large;
 }
 .title-box h2{
     font-size: 21px;
     color: #EBC85E;
     text-shadow: 0 1px 1px #000;
+    font-family : Ccl;
+    font-size: xx-large;
 }
 .follow-buttons{padding-left: 26px;}
 
